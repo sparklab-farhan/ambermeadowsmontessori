@@ -466,7 +466,7 @@ button, input, textarea:focus {
 * ----------------------------------------------------------------------------------------
 */
 .atf-top-header {
-	background-color: var(--thm-color) !important;
+	background-color: #FCB853 !important;
 	overflow: hidden;
 }
 .atf-top-header .atf-top-header-in {
